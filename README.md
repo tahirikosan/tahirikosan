@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Tahir <br /><br /> 
  
 [![](https://img.shields.io/badge/youtube-%23E4405F.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCBaJAz3EIrj2KREjdyoW4ug)
-[![](https://img.shields.io/badge/medium-%23E4405F.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@tahirabuzetoglu)
+[![](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@tahirabuzetoglu)
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tahir-abuzetoglu/)
 [![](https://img.shields.io/badge/gmail-%23E4405F.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:tahirabuzetoglu.connect@gmail.com)
+[![](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/developer?id=TechBrotherhood&hl=tr&gl=US)
 </h1>
 
 
