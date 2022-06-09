@@ -40,11 +40,11 @@
 
 <p align="center">
     <a href="https://github.com/tahirikosan/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Yasin Osman's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=tahirikosan&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Tahir Abuzetoglu's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=tahirikosan&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
 <p align="center">
-<img  src="https://github-readme-stats.vercel.app/api?username=tahirikosan&show_icons=true" alt="yasin osman :: Profile Stats" style="height:190px; display:block;" />
+<img  src="https://github-readme-stats.vercel.app/api?username=tahirikosan&show_icons=true" alt="Tahir Abuzetoglu :: Profile Stats" style="height:190px; display:block;" />
 </p>
 
