@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Tahir <br /><br /> 
  
 [![](https://img.shields.io/badge/youtube-%23E4405F.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCBaJAz3EIrj2KREjdyoW4ug)
-[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yasinosman/)
-[![](https://img.shields.io/badge/gmail-%23E4405F.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:yasinosman10@gmail.com)
+[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tahir-abuzetoglu/)
+[![](https://img.shields.io/badge/gmail-%23E4405F.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:tahirabuzetoglu.connect@gmail.com)
 </h1>
 
 
