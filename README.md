@@ -10,7 +10,7 @@
 
 ## Average Android Enjoyer
 
--   Creating Android Applications for a long time.
+-   Creating Android Applications for over 3.5 years.
 -   Currently working as a Freelancer.
 ---
 
