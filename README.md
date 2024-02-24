@@ -10,8 +10,8 @@
 
 ## Average Android Enjoyer
 
--   Creating Android Applications for over 3.5 years.
--   Currently working as a Freelancer.
+-   Creating Android Applications for over 4.5 years.
+-   Currently working for Accenture Company.
 ---
 
 ### Tools & Languages
